@@ -33,12 +33,19 @@ El parametro Events define el numero de eventos a ejecutar por el Monkey.
 Se usan los siguientes comandos:
 
 Tap
+
 Text
+
 Swipe
+
 Keyevent
+
 Rotate
+
 Network
+
 Sensor
+
 
 Al escribir cada uno de los comandos se debe escribir el correspondiente numero que define la distribucion de la ejecucion de dicho comando con respecto al total de eventos definidos que se deben ejecutar. En base al numero de eventos a ejecutar y a esta distribucion se calcula el numero de ejecuciones de cada uno de los comandos.
 
