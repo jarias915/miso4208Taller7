@@ -4,4 +4,7 @@ Se realizaron las pruebas de Espresso sobre la aplicacion To-Do List, el reposit
 
 https://github.com/SecUSo/privacy-friendly-todo-list
 
-Las pruebas correspondientes corresponden al acceso al menu Help y a la creacion de una tarea.
+Las pruebas correspondientes corresponden al acceso al menu Help y a la creacion de una tarea:
+
+https://github.com/jarias915/miso4208Taller7/blob/master/EspressoTestRecorder/EspressoTest.gif
+
