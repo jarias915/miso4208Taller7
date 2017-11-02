@@ -55,8 +55,10 @@ APKSourcePath, APKName, y APKPackageName
 
 Ejemplos:
 
-APKSourcePath    : "E:\\03 Talleres\\07 Taller 7\\Monkey\\"  Se deben incluir las dobles comillas y separar con doble \
+APKSourcePath    : "E:\\\\03 Talleres\\\\07 Taller 7\\\\Monkey\\\\"  Se deben incluir las dobles comillas y separar con doble \\\\
+
 APKName          : org.tasks_481.apk
+
 APKPackageName   : org.tasks
 
 El Monkey instala el APK y despues comienza la ejecucion de los comandos.
